@@ -43,7 +43,7 @@ Farmer
 Username: farmer
 Password: farmer
 
-The farmer has a basic homepage and can add a new item to their profile.
+The farmer has a basic homepage, displaying their username and can add a new item to their profile.
 
 
 ![farmer_homepage](https://user-images.githubusercontent.com/101861214/178948940-9afd35c9-7d55-41e8-a9a4-cd925480a9dd.png)
@@ -56,4 +56,4 @@ Click the add new item link on the navigation bar. Here all a farmer needs to do
 
 Conclusion
 
-It was quite unfortuunate running into an unsolveable database error, but the app is not yet in its final stage, as i'm sure you can see. Either way the app came out nicely. I’m happy with the functionality but know that the interface is quite difficult on asp.net. The app is fast, accurate and easy to use meaning it checks all the boxes, but with a bit more design and validation it would be perfect.
+It was quite unfortuunate running into an unsolveable database error, but the app is not yet in its final stage, as i'm sure you can see. Either way the app came out nicely. I’m happy with the functionality but know that the interface is quite difficult on asp.net. I enjoyed coding the logic, which creates user specific data in my own way. Using foreign keys within the database to associate products with farmers, and using session variables containing usernames to make sure lists are related to the loggedin user. The app is fast, accurate and easy to use meaning it checks all the boxes, but with a bit more design and validation it would be perfect.
