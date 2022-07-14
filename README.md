@@ -1,5 +1,7 @@
 # Farm-Central-Stock-Take-Web-Application
 
+Please note this application had over 100 files and is over 25mb as a zip, therefore it cannot be uploaded to git. Screenshots are attached but a copy of the app can be sent upon request.
+
 Background
 
 This C# ASP.NET web application was built to accurately track farmers’ stocks and for employees to view their profiles and items. This is all done on a simple UI and doesn’t have issues with accuracy or speed. A video demonstrating app use is attached as well as another video showing all the source code of the app.
